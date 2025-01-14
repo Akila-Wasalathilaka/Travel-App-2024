@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "27917764586",
+    "firebase_url": "https://my-application-3aad1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-application-3aad1",
+    "storage_bucket": "my-application-3aad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27917764586:android:6db629eb42c79f60699493",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59yC1Po-J_R1UAxlcKfklwYUzmr5-RSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27917764586:android:69577a8e670799cb699493",
+        "android_client_info": {
+          "package_name": "com.example.travelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59yC1Po-J_R1UAxlcKfklwYUzmr5-RSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27917764586:android:29a3a1a510ed6161699493",
+        "android_client_info": {
+          "package_name": "com.example.travelinsrilanka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA59yC1Po-J_R1UAxlcKfklwYUzmr5-RSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
