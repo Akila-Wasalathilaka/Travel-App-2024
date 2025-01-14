@@ -13,6 +13,7 @@ This is a travel app that allows users to explore travel destinations, view trip
 The main menu displays a list of travel destinations. Each destination is clickable and leads to a detailed view of the trip, including the price and the tour guide.
 
 ![Main Menu Interface](Travel%20App/imgs/home.jpg)
+<img src="Travel%20App/imgs/home.jpg" width="400" />
 
 ### 2. Trip Details View
 After clicking on a destination, users are shown the price for the trip and additional information, such as the availability of a tour guide.
