@@ -17,12 +17,12 @@ The main menu displays a list of travel destinations. Each destination is clicka
 ### 2. Trip Details View
 After clicking on a destination, users are shown the price for the trip and additional information, such as the availability of a tour guide.
 
-![Trip Details Interface](Travel%20App/imgs/description.jpg)
+<img src="Travel%20App/imgs/description.jpg" width="200" />
 
 ### 3. Tour Guide Section
 The tour guide section provides users with detailed information about their trip and includes a barcode that can be scanned for access to further details. The option to download the guide ticket is planned for future implementation.
 
-![Tour Guide Interface](Travel%20App/imgs/guide.jpg)
+<img src="Travel%20App/imgs/guide.jpg" width="200" />
 
 ---
 
